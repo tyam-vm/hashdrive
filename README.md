@@ -53,5 +53,5 @@ URLs:
     Hashdrive_backend: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=m5soc-6aaaa-aaaam-aehlq-cai
 ## Resouces & Ideas
 * [Environment Setup Guide](https://docs.google.com/document/d/1MhzCf3wdxwpn2uAcdQmS7SEbljEgNFYvh3ADyZjb84o/)
-* [RoadMap] (https://docs.google.com/document/d/1KHmEFO6E9QjQBNEbDAV-hEF7iu5hPSUC9PZMSLZYPHE)
-* [Ideas] (https://docs.google.com/document/d/1dCViagnQEY1seT4pFQnwPzrBvcjoH3GJn3CG-3hWy7U/)
+* [RoadMap](https://docs.google.com/document/d/1KHmEFO6E9QjQBNEbDAV-hEF7iu5hPSUC9PZMSLZYPHE)
+* [Ideas](https://docs.google.com/document/d/1dCViagnQEY1seT4pFQnwPzrBvcjoH3GJn3CG-3hWy7U/)
