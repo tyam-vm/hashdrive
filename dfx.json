@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "Hashdrive_backend": {
+      "main": "src/Hashdrive_backend/main.mo",
+      "type": "motoko"
+    },
+    "Hashdrive_frontend": {
+      "dependencies": [
+        "Hashdrive_backend"
+      ],
+      "source": [
+        "src/Hashdrive_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "Hashdrive_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
